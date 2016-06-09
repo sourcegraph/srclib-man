@@ -1,6 +1,136 @@
 {
 	"comment": "",
 	"ignore": "test",
-	"package": [],
+	"package": [
+		{
+			"checksumSHA1": "E3MgYSYQYb3DN3GTRGG5JbVWRhU=",
+			"origin": "sourcegraph.com/sourcegraph/srclib/vendor/github.com/gogo/protobuf/proto",
+			"path": "github.com/gogo/protobuf/proto",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "e6cMbpJj41MpihS5eP4SIliRBK4=",
+			"origin": "sourcegraph.com/sourcegraph/srclib/vendor/github.com/gogo/protobuf/sortkeys",
+			"path": "github.com/gogo/protobuf/sortkeys",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "oGaGPSUL5y9XlpafEzXEZDh5IPM=",
+			"path": "github.com/jessevdk/go-flags",
+			"revision": "b9b882a3990882b05e02765f5df2cd3ad02874ee",
+			"revisionTime": "2016-05-28T08:24:54Z"
+		},
+		{
+			"checksumSHA1": "KQhA4EQp4Ldwj9nJZnEURlE6aQw=",
+			"origin": "sourcegraph.com/sourcegraph/srclib/vendor/github.com/kr/fs",
+			"path": "github.com/kr/fs",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "xfOefPDYot5K2I+0XdV4UnNQ/lM=",
+			"origin": "sourcegraph.com/sourcegraph/srclib/vendor/github.com/rogpeppe/rog-go/parallel",
+			"path": "github.com/rogpeppe/rog-go/parallel",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "2bj5Jq3+RmE2blLnFUfkASYGTlg=",
+			"origin": "sourcegraph.com/sourcegraph/srclib/vendor/golang.org/x/tools/godoc/vfs",
+			"path": "golang.org/x/tools/godoc/vfs",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "Qwc7VecyIh84Ol8n9J9DUwZQtII=",
+			"origin": "sourcegraph.com/sourcegraph/srclib/vendor/golang.org/x/tools/godoc/vfs/mapfs",
+			"path": "golang.org/x/tools/godoc/vfs/mapfs",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "nvPgbKtQbo/akMebU3oiDi/CdjM=",
+			"origin": "sourcegraph.com/sourcegraph/srclib/vendor/sourcegraph.com/sourcegraph/makex",
+			"path": "sourcegraph.com/sourcegraph/makex",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "nqNIAF67+sVDdlCnb2fY0t4Dk7k=",
+			"origin": "sourcegraph.com/sourcegraph/srclib/vendor/sourcegraph.com/sourcegraph/rwvfs",
+			"path": "sourcegraph.com/sourcegraph/rwvfs",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "HALuexMIaAq2L/GuFys/8DYsUKs=",
+			"path": "sourcegraph.com/sourcegraph/srclib",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "50qafmhTyHoz2X+UbQeqJKcELjw=",
+			"path": "sourcegraph.com/sourcegraph/srclib/ann",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "6Gr29dGzABWc6eUncFUs7LMVDVY=",
+			"path": "sourcegraph.com/sourcegraph/srclib/buildstore",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "kvnyBbEvqJqDFaiSJ6Hxc24jatw=",
+			"path": "sourcegraph.com/sourcegraph/srclib/config",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "vUECzhjLYS4ERgLkmb5MNIhRVEw=",
+			"path": "sourcegraph.com/sourcegraph/srclib/dep",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "IlhJpzgSvjk9dQXGcZARbjn3D/I=",
+			"path": "sourcegraph.com/sourcegraph/srclib/graph",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "4bz5pt5eM29kurcWK2WpjlHqRAo=",
+			"path": "sourcegraph.com/sourcegraph/srclib/plan",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "ZlOdLig/z39GiVB6qJkwhNq/8nU=",
+			"path": "sourcegraph.com/sourcegraph/srclib/toolchain",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "EESoX33WnRTuXNMkGhPXZNasiS0=",
+			"path": "sourcegraph.com/sourcegraph/srclib/unit",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "sX55Z0+7/lbGcM2XgxpFylHQCIc=",
+			"path": "sourcegraph.com/sourcegraph/srclib/util",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		},
+		{
+			"checksumSHA1": "lRwPjtNbVilL1nXxCXBboM41JZA=",
+			"origin": "sourcegraph.com/sourcegraph/srclib/vendor/sourcegraph.com/sqs/pbtypes",
+			"path": "sourcegraph.com/sqs/pbtypes",
+			"revision": "9b7c82ad7387adceb40aa4efcf205f54c983405b",
+			"revisionTime": "2016-05-30T22:21:22Z"
+		}
+	],
 	"rootPath": "sourcegraph.com/sourcegraph/srclib-man"
 }
